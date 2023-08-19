@@ -4,11 +4,18 @@ Welcome to this tutorial on regex for password validation! Regular expressions (
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+^(?=.*[A-Z])(?=.*[a-z])(?=.*\d)(?=.*[!@#$%^&*]).{8,}$
 
+My regex featured in this tutorial is designed to validate passwords based on the following criteria:
+
+At least 8 characters long
+Contains at least one uppercase letter
+Contains at least one lowercase letter
+Contains at least one digit
+Contains at least one special character (e.g., !@#$%^&*)
 ## Table of Contents
 
-- [Anchors](#anchors)
+- [Structure of Regex](#Structure-of-Regex)
 - [Quantifiers](#quantifiers)
 - [OR Operator](#or-operator)
 - [Character Classes](#character-classes)
