@@ -15,42 +15,20 @@ Contains at least one digit
 Contains at least one special character (e.g., !@#$%^&*)
 ## Table of Contents
 
-- [Structure of Regex](#Structure-of-Regex)
-- [Quantifiers](#quantifiers)
-- [OR Operator](#or-operator)
-- [Character Classes](#character-classes)
-- [Flags](#flags)
-- [Grouping and Capturing](#grouping-and-capturing)
-- [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
-- [Boundaries](#boundaries)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+- [Anchors](#Anchors)
+- [Look-ahead Assertions](#Look-ahead-Assertions)
+- [Character Classes](#Character-Classes)
+- [Quantifiers](#Quantifiers)
+
 
 ## Regex Components
 
 ### Anchors
 
-### Quantifiers
-
-### OR Operator
+### Look-ahead Assertions
 
 ### Character Classes
 
-### Flags
+### Quantifiers
 
-### Grouping and Capturing
-
-### Bracket Expressions
-
-### Greedy and Lazy Match
-
-### Boundaries
-
-### Back-references
-
-### Look-ahead and Look-behind
-
-## Author
-
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This tuturiol was created by Hector Delgado, a full stack developer bootcamp student. Dive into my Github profile for more insight on my projects. 
