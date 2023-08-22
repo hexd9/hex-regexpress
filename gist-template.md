@@ -16,10 +16,10 @@ Contains at least one special character (e.g., !@#$%^&\*)
 
 ## Table of Contents
 
-- [Anchors](#Anchors)
-- [Look-ahead Assertions](#Look-ahead-Assertions)
-- [Character Classes](#Character-Classes)
-- [Quantifiers](#Quantifiers)
+- [Anchors](#anchors)
+- [Look-ahead Assertions](#look-ahead-assertions)
+- [Character Classes](#character-classes)
+- [Quantifiers](#quantifiers)
 
 ## Regex Components
 
@@ -43,7 +43,7 @@ Look-ahead assertions are zero-width assertions that let you test what's to the 
 
 (?=.\*\d): Positive lookahead to ensure at least one digit is present.
 
-(?=.\*[!@#$%^&*]): Positive lookahead to ensure at least one special character from the set is present.
+(?=.\*[!@#$%^&\*}): Positive lookahead to ensure at least one special character from the set is present.
 
 ### Character Classes
 

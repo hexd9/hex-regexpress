@@ -4,7 +4,7 @@
 
 Welcome to this tutorial on regex for password validation! Regular expressions (regex) are tools for pattern matching and validation. In this guide, I'll break down a regex pattern specifically designed for password validation, ensuring that passwords meet certain criteria for security.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Summary](#Summary)
 - [Credits](#credits)
