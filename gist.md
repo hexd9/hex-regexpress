@@ -3,8 +3,8 @@
 Welcome to this tutorial on regex for password validation! Regular expressions (regex) are tools for pattern matching and validation. In this guide, I'll break down a regex pattern specifically designed for password validation, ensuring that passwords meet certain criteria for security.
 
 ## Summary
+`^(?=._[A-Z])(?=._[a-z])(?=._\d)(?=.[!@#$%^&*]).{8,}$`
 
-^(?=._[A-Z])(?=._[a-z])(?=._\d)(?=._[!@#$%^&*]).{8,}$
 
 My regex featured in this tutorial is designed to validate passwords based on the following criteria:
 
