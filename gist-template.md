@@ -59,4 +59,6 @@ Quantifiers define how many instances of a character, group, or character class 
 
 ## Author
 
+https://github.com/hexd9/hex-regexpress
+
 This tuturiol was created by Hector Delgado, a full stack developer bootcamp student. Dive into my Github profile for more insight on my projects.
